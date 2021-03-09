@@ -1,0 +1,66 @@
+<appdata>
+<layout>
+<app-name> Shree Roopnaryan Ji Mandir::change to hindi</app-name>
+	 <v>2(change)</v>
+	<icon> same(improve)</icon>
+</layout>
+<fix>
+ <f1> back-press </f1>
+ <f2> speed(due  to cdn)</f2>
+<f3> voice one tap play </f3>
+<f4> video full screen </f4>
+</fix>
+<new>
+<n1> onesignal push notifaction , in-app notification </n1>
+<n2> in-app update  </n2>
+<n3_live> live
+<live> twich platform </live>
+<id> ShreeRoopnarayanJiMandir </id>
+<gmail> bharatpandiya000@gmail.com </gmail>
+ </n3_live>
+<n4_dataUpdate> clear data when push notification has addtional data filed as
+<addtional-field>
+update | update </addtional-field>
+</n4_dataUpdate>
+
+</new>
+<config>
+<onesignal>
+<os-firebase>kiranpandiya18@gmail.com </os-firebase>
+<id> bharatpandiya000@gmail.com </id>
+<o1>additonal data : update | update </o1>
+<o2>small icon :: sym_action_chat</o2>
+<o3>large icon :: upload image</o3>
+<o4>accent color: light blue</o4>
+<o5> in-app support for new usr </o5>
+</onesignal>
+<googleAction>
+<id> bharatpandiya000@gmail.com </id>
+</googleAction>
+<appData>
+<website> same shreeroopnarayanjimandir.bharat.net.eu.org with redirection </website>
+<redirection>
+<r1>main -> shreeroopnarayanji.web.app</r1>
+<r2>for gallary-> cdnapp0.web.app</r2>
+<r3> mandir0.web.app</r3>
+</redirection>
+</appData>
+<firebase>
+all website on bharat@bharat.net.eu.org
+</firebase>
+<google-anl>
+admin@bharat.net.eu.org
+</google-anl>
+<sms>
+<jio>
+jio bharatpandiya000@gmail.com
+</jio>
+<fast2sms>
+9004941383
+9819457422
+</fast2sms>
+<dlt> header svntri | swntri | srnmji </dlt>
+</sms>
+</config>
+</appdata>
+
